@@ -1,4 +1,4 @@
-#turn on Tor browser for this to work
+#turn on Tor browser in cmd for this to work
 import requests
 target = str(input('Write the full web address of the victim\t'))
 times = int(input('How many times to brute force the victim?\t'))
